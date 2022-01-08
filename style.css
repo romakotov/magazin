@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    font-color: green;
+}
+header
+{
+      background-color: rgb(253, 255, 255);
+    color: darkblue;
+    border-radius:10px;
+    margin:10px;
+    height: 70px;
+   
+
+}  
+a{
+    text-decoration: none;
+    colot:whight
+    }
+h1{
+    text-align:center;
+    color:darkorchid;
+}
+
+footer
+{
+    background-color:rgb(245, 249, 250);
+    height:100px;
+}
+nav a{
+    text-decoration: none;
+   background-color: rgb(253, 255, 255);
+}
+.product{
+    background-color: palegoldenrod;
+}
+.product2{
+    background-color: palegoldenrod;
+}
